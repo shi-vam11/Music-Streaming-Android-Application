@@ -8,8 +8,12 @@ Android Marshmallow includes a new functionality to let users grant or deny perm
 Dexter frees your permission code from your activities and lets you write that logic anywhere you want.
 
 Screenshots-
-1.<img src = "https://user-images.githubusercontent.com/67203784/86024341-7e727d00-ba4a-11ea-9299-610df8a9fd7d.jpg" height = "700" width = "300">
+1.
 
-2.<img src = "https://user-images.githubusercontent.com/67203784/86024711-f80a6b00-ba4a-11ea-9718-43a7b9480462.jpg" height = "700" width = "300">
+<img src = "https://user-images.githubusercontent.com/67203784/86024341-7e727d00-ba4a-11ea-9299-610df8a9fd7d.jpg" height = "700" width = "300">
+
+2.
+
+<img src = "https://user-images.githubusercontent.com/67203784/86024711-f80a6b00-ba4a-11ea-9718-43a7b9480462.jpg" height = "700" width = "300">
 
 Also Used Google firebase for the real-time database and real-time storage so as to keep the database updated with all the recent songs. 
