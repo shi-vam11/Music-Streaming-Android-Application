@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783565862467",
+    "firebase_url": "https://android-muzikk-player.firebaseio.com",
+    "project_id": "android-muzikk-player",
+    "storage_bucket": "android-muzikk-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783565862467:android:1595e2710ade10fe90c6f6",
+        "android_client_info": {
+          "package_name": "com.example.androidmuzikkplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783565862467-doqv77opp4g43v4fgu2tb9h5nonvdqbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSU9EcjKBWRKsA2eleo4QeqChNhUHuITs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783565862467-doqv77opp4g43v4fgu2tb9h5nonvdqbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
